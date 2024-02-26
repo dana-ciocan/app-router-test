@@ -1,4 +1,4 @@
-import styles from "../../page.module.css";
+import styles from "./product.module.css";
 
 export default function Product({ params }: { params: { id: string } }) {
   return (
